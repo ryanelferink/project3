@@ -1,4 +1,4 @@
-#!/usr/bin/env xkcdpwgen
+#!/usr/bin/env python3
 import sys
 import random
 import getopt
